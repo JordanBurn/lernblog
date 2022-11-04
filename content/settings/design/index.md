@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/media/marcel-eris-montanablack-portrait.jpg"
+icon = "/media/images.jpg"
+logo = ""
+image = ""
 color = "#5d9fbd"
 +++
