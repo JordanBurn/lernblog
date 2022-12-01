@@ -1,165 +1,86 @@
 +++
-title = "Example Post"
+title = "Im Reich des Bieres"
 date = "2022-10-24"
 draft = false
 pinned = false
-tags = ["Example", "Lernblog"]
-image = "/img/default-image.jpg"
+tags = ["Bier"]
+image = ""
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
-
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+
+Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss. 
 {{</lead>}}
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Überschrift 1
+<!--StartFragment-->
 
-So sieht die grösste Überschrift aus (H1).
+# Unser Besuch in der Brauerei
 
-## Überschrift 2
+Die Ankunft
 
-Dies ist die Überschrift 2 (H2).
+Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bierbrauerei “Altes Tramdepot” beim Bärengraben in Bern ein. Uns fallen sofort zwei grosse und eindrückliche Kupfertanks, bei der Bar, ins Auge. Nun laufen wir zu der Rezeption. Da werden wir freundlich an der Rezeption aufgefordert, kurz auf Matthias Koschahre, mit dem wir uns zuvor verabredet haben, zu warten. Er wird uns durch die Brauerei führen und uns ein Interview geben. Matthias Koschahre empfängt uns knapp zwei Minuten später und beginnt dann direkt mit der Führung für uns durch die Brauerei. Den Brauprozess können wir leider nicht sehen, da hier Heute nicht gebraut wird. Das “Altes Tramdepot” ist nur eine kleine Brauerei, hier wird nicht täglich Bier gebraut, da es nicht genügend Abnehmer für das ganze Bier gibt. 
 
-### Überschrift 3
+# {{}}
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+Das “alte Tramdepot” war früher, wie der Name schon vorwegnimmt, ein Depot für Trams. 
 
-#### Überschrift 4
+Doch dieses Depot wurde 1941 stillgelegt und seitdem für viele verschiedene Zwecke genutzt. 
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
+Es diente zum Beispiel als Depot für Bühnenbilder und Requisiten des Stadttheaters. 
 
-## Weitere Textformatierungen
+Schliesslich entschied man sich im Jahre 1994 dazu, das Tramdepot zu sanieren und es als gastronomischen und kulturellen Treffpunkt zu nutzen. Seitdem wurde es noch etliche Male umgebaut, um die Bierproduktion zu verbessern und das Lokal zu erweitern.
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+Die Führung
 
-### Fett und Kursiv
+Zuerst sehen wir das Lager der Brauerei. Beim Betreten des Lagers, stechen uns die riesigen Gerstensäcke ins Auge. Im Lager werden wöchentlich die Lieferungen der verschiedenen Gerstensorten gelagert. Wir dürfen im Lager die verschiedenen Gerstensorten in unterschiedlichen Röststufen probieren und stellen fest, dass uns der Geschmack an Haferflocken erinnert. Je stärker die Röstung der Gerste, desto mehr nimmt sie den Geschmack von Kaffee an. Matthias Koschahre sagt dazu, dass wir gerade das probieren würden, was ebenfalls in Farmerriegeln verarbeitet wird. Zunächst sehen wir, wie die Gerste gleich im Lager geschrotet und dann direkt zu zwei grossen Kupfertanks getragen wird. Dort wird die geschrotete Gerste mit Wasser im Tank vermischt. 
 
-Natürlich gibt es auch **fett** und _kursiv_.
+Die beiden grossen Tanks stehen mitten im Lokal der Brauerei, was sehr eindrücklich auf uns wirkt. Erst als wir in die Tanks hineingeschaut haben, merken wir, wie gross sie tatsächlich sind. Matthias Koschahre erzählt uns, dass die Tanks nur aussen aus Kupfer bestünden. Das Kupfer sei nur aus Dekorations- und Traditionsgründen da. Früher habe man diese Tanks nämlich nur aus Kupfer hergestellt. Mittlerweile bestünden sie aber im Inneren aus hygienischen Gründen aus Edelstahl. In diesen beiden Tanks befinden sich zwei grosse Platten mit Löchern. Diese dienen dazu, den Sud umzurühren, während er auf eine Temperatur von 60 Grad Celsius erhitzt wird. Diese Temperatur ist notwendig, damit die Stärke während des Prozesses in Zucker umgewandelt werden kann. Im Anschluss folgen wir einem grossen Rohr mit einem Filter, welches aus einem der Tanks hinausragt. 
 
-### Links
+Dieses Rohr führt uns in einen weiteren abgeschlossen Raum. Dort sehen wir einen grossen, flachen Zylinder, an dem Rohre angeschlossen sind. Dieser Zylinder diene, wie Matthias Koschahre erzählt, zur Trennung vom vorher entstandenen Sud, den Feststoffen und dem Eiweiss. Dieser Prozess funktioniert dabei wie bei einer Zentrifuge. 
 
-[So können Links angegeben werden](https://www.lernblog.org). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
+Nun steigen wir hinab in den Keller des Gebäudes und stehen vor einer breiten und hohen Glasfront, hinter der grosse Tanks mit Bier an einem langen Rohrsystem angeschlossen sind. Der Blick auf die Tanks zeigt uns erst richtig auf, wie viel Bier hier gelagert wird. Wir laufen durch eine Glastür und bemerken dabei direkt einen Temperaturunterschied, der zwischen dem Lagerraum und dem restlichen Gebäude herrscht. Dieser Raum dient zum Kühlen, Lagern und Reifen des Bieres. An jedem Tank hängt ein Zettel, auf welchem steht, seit wann das Bier dort gelagert wird und wie hoch der Alkoholgehalt sowie der Kohlensäuregehalt ist. Am Ende dieses grossen Raumes erblicken wir eine Abfüllmaschine und fragen Matthias Koschahre: „Wie viel Export betreiben Sie?“ Darauf antwortet er: „Wir betreiben nicht so viel Export, da es sich bei unserem Bier um ein Frischprodukt handelt, das man nicht so gut exportieren kann. Ausserdem ist unsere Brauerei zu klein, um internationalen Export zu betreiben.“  Danach schauen wir uns noch genauer im Raum um und sehen an der Decke Rohre, die direkt zur Bar nach oben führen, wo das Bier dann frisch gezapft wird. 
 
-### Zitate
+An die Bar des Tramdepots gehen wir dann auch und wählen einen Tisch, der etwas abgelegen von den anderen Leuten steht, an dem wir das Interview durchführen. Nach dem Gespräch bedanken wir uns bei Matthias Koschahre dafür, dass er sich die Zeit genommen hat, um uns die Brauerei zu zeigen und unsere Fragen zu beantworten. Ein spannender und lehrreicher Besuch in der Brauerei “Altes Tramdepot” endet nun für uns. Wir haben viel Neues und Interessantes für unsere Reportage in Erfahrung gebracht.
 
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lernblog.org)_
+„Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ 
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
+Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
 
-### Liste
+# {{}}
 
-So sieht eine Liste aus:
+Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot“ und das schon seit über vier Jahren. Er besitzt einen Instagram Account, auf dem er gelegentlich Posts macht, die meistens in Verbindung mit seinem Bier oder der Brauerei stehen.
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+# Das Interview mit Herrn Koschahre
 
-### Nummerierte Liste
+Nach der Führung setzen wir uns zusammen mit Herrn Koschahre an einen Tisch, um im Interview unsere Fragen an ihn zu richten. Wir stellen ihm einerseits Fragen, die interessant für uns sind und andererseits solche, die uns helfen, die Faszination hinter dem Bierbrauen zu verstehen. Denn das Brauen ist für viele Brauer nicht nur ein Beruf, sondern vielmehr eine Leidenschaft. 
 
-Und so eine nummerierte Liste:
+„Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “  
 
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
+Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
 
-## Bilder
+Unsere erste Frage an ihn lautet: „Was hat Sie zum Beruf des Bierbrauers gebracht und was interessiert Sie besonders an diesem Beruf?“ Darauf antwortet er uns prompt: „Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ Da sind wir natürlich erst erstaunt. Mit dieser Art von Antwort haben wir nicht gerechnet. Weiter erklärt er, dass er sich mit seinem besten Freund in einer Brauerei beworben habe und er derjenige gewesen sei, der die Stelle bekommen habe. Die Wette sei gewesen, dass der, der angestellt werden würde, einen Kasten Bier erhielt. Doch anfangs sei er von seinem Beruf als Bierbrauer genervt gewesen, weil er nur für das Putzen der Tanks zuständig gewesen sei. Der Spass am Bierbrauen sei erst später gekommen und jetzt ist er vollkommen überzeugt von seinem Beruf. Das Brauen sei für ihn kein Beruf in der Art und Weise, es sei sein Leben. Im Verlauf seiner Ausführung sagt er: „Es *ist für mich kein Beruf in der Art und Weise. Es ist mein Leben.”*
 
-Bilder werden mit dem `+`-Symbol eingefügt.
+Weiter Fragen wir Matthias Koschahre: „Wieso hat sich das so drastisch verändert? Wodurch kam das zustande?“ Er antwortet darauf: “Mit Beginn des ersten Schulblocks oder des zweiten Schulblocks, wo es dann um Fachwissen ging. Wo es dann da drum ging, effektiv Bier herzustellen.” Weiter erklärt er, dass er vorher immer nur die Tanks geputzt habe und es erst mit dem Fachwissen übers Bierbrauen zu einer Leidenschaft wurde. 
+
+Bei dieser Antwort kommt bei uns die Frage auf, ob er ein besonderes, schönes oder Erinnerns wertes Erlebnis, von dem er uns erzählen könne, hätte. Darauf antwortet er: “Es gab viele spezielle Momente, aber letzten Endes hängt es immer mit dem Team zusammen. Hast du ein gutes Team, hast du immer wieder Momente, wo geile Aktionen entstehen.” Weiter fährt er damit fort, dass es schon Wasserschlachten gegeben habe und es solche Aktionen immer wieder gäbe. Das Schönste für ihn sei allerdings, am Freitagnachmittag mit seinen Leuten zusammen zu sitzen und ein Bier zu trinken. 
+
+So Fragen wir ihn dann: „Was sind die grössten Herausforderungen beim Bierbrauen oder gerade in ihrer Position als Leiter?“  und er antwortet auf diese Frage: „In meiner Position ist es doch definitiv die Verantwortung. Du stehst, du repräsentierst als Gesicht das Getränk.“ Matthias Koschahre erklärt weiter, dass er die ganze Kritik aufnehme und diese Kritik immer subjektiv sein müsse. Für ihn sei das grösste Problem die Verantwortung. 
+
+Nun interessiert uns noch ein Punkt. Nämlich hatten wir im Internet gelesen, dass einige seiner Biere bei den Swiss Beer Awards gewonnen haben. Also fragen wir nach: “Hat sich das so zustande gestellt, da sie ja nicht jedes Jahr gewonnen haben, dass sich das Rezept mit der Zeit verändert und anpasst, oder bleibt es ungefähr das Gleiche? “ Er antwortet auf diese Frage: „Nein, mein Vorgänger ist gegangen und wir haben dran rumgeschraubt.“ Weiter erzählt er uns, dass jeder Bierbrauer seine eigene Handschrift unter jedes Getränk setze. Wenn es dem Bierbrauer nicht passe, schraube er so lange daran herum, bis es ihm passt und so habe er es auch gemacht. Dadurch habe sich das Bier anscheinend verbessert.
+
+Aber ihn interessiere der Swiss Beer Award gar nicht so sehr. Es gebe andere Awards, die für ihn einen höheren Stellenwert hätten. Aber seine Brauerei könne sich ja nicht so wirklich mit den grossen Brauereien messen. Sie besässen nicht die gleichen Mittel wie die grossen Brauereien. Deshalb sei der Award auch nicht so bedeutend für ihn und er sei auch mit der Silber- und Bronzemedaille zufrieden. 
+
+An dieser Stelle haken wir natürlich nochmals nach und fragen ihn: „Welcher Award hätte den für Sie einen viel grösseren Stellenwert?“ „Das wäre der European Brewers Convention Award, der nennt sich so.“ gibt er uns zur Antwort. Weiter führt er aus, dass es noch andere Awards gäbe, die erstrebenswert sind. Dazu gehöre zum Beispiel der European Beer Star, aber für diesen sei die Brauerei zu klein.  Zum Abschluss des Interviews bedanken wir uns bei Matthias Koschahre für das geduldige und offene Beantworten unserer Fragen und die Zeit, die wir mit ihm verbringen durften. 
+
+# Unser Fazit
+
+Uns beeindruckte die Führung durch die Brauerei sehr. Mit dieser beachtlichen Anzahl an aufschlussreichen und spannenden Informationen hatten wir nicht gerechnet. Wir brachten allerlei neue Dinge in Erfahrung und konnten während der Führung einen genauen Einblick in die Bierherstellung gewinnen. Es war sehr eindrücklich für uns zu sehen, wie viel Arbeit und Mühe hinter der Bierbrauerei steckt und auf welche Details geachtet werden muss. Bier ist nicht einfach schnell gebraut, es ist vielmehr ein wochenlanger, aufwändiger und leidenschaftlicher Prozess. Bier ist kein Getränk, es ist eine Leidenschaft.
+
+<!--EndFragment-->
 
 ![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
 
-**Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
-
-### Tipps zu Bildgrössen
-
-Ein Richtwert für Bilder ist, dass diese wenn möglich nicht grösser als `400kb` sein sollten. Man kann sie so verkleinern, dass die Breite höchstens `1200px` gross ist. Dies ist für die meisten Bildschirme mehr als genug.
-
-### Bildunterschrift
-
-Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bildunterschrift im Artikel angezeigt.
-
-## Horizontale Linie
-
-Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
-
----
-
-## Lead
-
-{{<lead>}}
-Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
-{{</lead>}}
-
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
-`{{</*/lead*/>}}`
-
-## Kasten
-
-{{<box>}}
-In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
-{{</box>}}
-
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.   
-`{{</*/box*/>}}`
-
-{{<box title="Ausklappbare Box">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
-
-
-Dies eignet sich auch für längere Inhalte.
-
 ![](/img/default-image.jpg)
-
-Auch Bilder können in eine Box gepackt werden.
-{{</box>}}
-
-`{{</*box title="Ausklappbare Box"*/>}}`   
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.   
-`{{</*/box*/>}}`
-
-## Video, Audio und andere Medien einbetten
-
-Es kann auch `HTML-Code` eingefügt werden. Manchmal geht dies etwas einfacher, wenn man dazu in den `Markdown`-Modus wechselt.
-
-Damit können zum Beispiel Filme, Audiodateien oder Karten eingebettet werden. Meist sind auf den entsprechenden Plattformen (YouTube, Vimeo, Google Maps, etc.) entsprechende Code-Ausschnitte vorbereitet, die man direkt in den Blog einfügen kann. Am besten auf der jeweiligen Plattform nach einem Knopf für `embed` oder `share` suchen.
-
-Bei Videos ist es ideal, wenn sie sich automatisch **an die Bildschirmgrösse anpassen**. Dies geht am einfachsten mit den hinterlegten YouTube- und Vimeo-Codes:
-
-### YouTube einbetten
-
-Einbetten von YouTube-Videos mit dem Code: `{{</*youtube video_id*/>}}`
-
-(Die `video_id` steht bei jedem YouTube-Video in der Browser-URL.)
-
-{{<youtube kQjtK32mGJQ>}}
-
-### Vimeo einbetten
-
-Einbetten von Vimeo-Videos geht mit dem Code: `{{</*vimeo video_id*/>}}`
-
-{{<vimeo 194276412>}}
-
-### Code und Code-Blöcke
-
-Mit dem Code-Symbol `<>` können Wörter auf `diese Art` hervorgehoben werden. Dies wird zum Beispiel für Tastenkombinationen wie `ctrl+s` oder für `Programmiercode` verwendet. Auch Math-Formeln können so ausgedrückt werden: `y = mx + b`.
-
-Für längere solche Abschnitte verwendet man am besten das Code-Block-Symbol. Damit wird ein solcher Block erstellt:
-
-```
-const sun1 = "sun" + "il";
-const sun2 = "su" + "n" + "il";
-sun1 === sun2;
-```
-
-## Spass haben
-
-😀 Viel Spass mit deinem Lernblog!
