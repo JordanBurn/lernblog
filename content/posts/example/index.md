@@ -2,7 +2,7 @@
 title = "Im Reich des Bieres"
 date = "2022-10-24"
 draft = false
-pinned = false
+pinned = true
 tags = ["Bier"]
 image = ""
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
