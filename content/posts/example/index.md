@@ -6,16 +6,11 @@ pinned = false
 tags = ["Bier"]
 image = ""
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
-{{<lead>}}
-
+{{<lead>}}\
 Jordan Burn und Yannick Geiger besuchen die Bierbrauerei und das Gastronomielokal „Altes Tramdepot“ in Bern und schauen sich mal genauer an, wie Bier gebraut wird. Dabei erfahren wir wie in der Brauerei „altes Tramdepot“ der Brauprozess abläuft, und was man alles beachten muss. 
 {{</lead>}}
-
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
-
-<!--StartFragment-->
 
 # Unser Besuch in der Brauerei
 
@@ -78,5 +73,3 @@ An dieser Stelle haken wir natürlich nochmals nach und fragen ihn: „Welcher A
 # Unser Fazit
 
 Uns beeindruckte die Führung durch die Brauerei sehr. Mit dieser beachtlichen Anzahl an aufschlussreichen und spannenden Informationen hatten wir nicht gerechnet. Wir brachten allerlei neue Dinge in Erfahrung und konnten während der Führung einen genauen Einblick in die Bierherstellung gewinnen. Es war sehr eindrücklich für uns zu sehen, wie viel Arbeit und Mühe hinter der Bierbrauerei steckt und auf welche Details geachtet werden muss. Bier ist nicht einfach schnell gebraut, es ist vielmehr ein wochenlanger, aufwändiger und leidenschaftlicher Prozess. Bier ist kein Getränk, es ist eine Leidenschaft.
-
-<!--EndFragment-->
