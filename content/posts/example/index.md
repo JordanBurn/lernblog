@@ -80,7 +80,3 @@ An dieser Stelle haken wir natürlich nochmals nach und fragen ihn: „Welcher A
 Uns beeindruckte die Führung durch die Brauerei sehr. Mit dieser beachtlichen Anzahl an aufschlussreichen und spannenden Informationen hatten wir nicht gerechnet. Wir brachten allerlei neue Dinge in Erfahrung und konnten während der Führung einen genauen Einblick in die Bierherstellung gewinnen. Es war sehr eindrücklich für uns zu sehen, wie viel Arbeit und Mühe hinter der Bierbrauerei steckt und auf welche Details geachtet werden muss. Bier ist nicht einfach schnell gebraut, es ist vielmehr ein wochenlanger, aufwändiger und leidenschaftlicher Prozess. Bier ist kein Getränk, es ist eine Leidenschaft.
 
 <!--EndFragment-->
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
-
-![](/img/default-image.jpg)
