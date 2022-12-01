@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["Bier"]
 image = ""
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = ""
 footnotes = ""
 +++
 {{<lead>}}\
