@@ -23,7 +23,7 @@ Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bi
 {{<box title= "Über das alte Tramdepot">}} \
 Das “alte Tramdepot” war früher, wie der Name schon vorwegnimmt, ein Depot für Trams. Doch dieses Depot wurde 1941 stillgelegt und seitdem für viele verschiedene Zwecke genutzt. Es diente zum Beispiel als Depot für Bühnenbilder und Requisiten des Stadttheaters. \
 Schliesslich entschied man sich im Jahre 1994 dazu, das Tramdepot zu sanieren und es als gastronomischen und kulturellen Treffpunkt zu nutzen. Seitdem wurde es noch etliche Male umgebaut, um die Bierproduktion zu verbessern und das Lokal zu erweitern.\
-{{<box>}}
+{{</box>}}
 
 ### Die Führung
 
@@ -47,7 +47,7 @@ An die Bar des Tramdepots gehen wir dann auch und wählen einen Tisch, der etwas
 
 {{<box title= "Über Matthias Koschare">}} \
 Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot“ und das schon seit über vier Jahren. Er besitzt einen Instagram Account, auf dem er gelegentlich Posts macht, die meistens in Verbindung mit seinem Bier oder der Brauerei stehen.\
-{{<box>}}
+{{</box>}}
 
 # Das Interview mit Herrn Koschahre
 
