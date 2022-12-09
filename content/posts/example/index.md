@@ -23,7 +23,7 @@ Am Montag, dem 10.10.2022, treten wir, Jordan Burn und Yannick Geiger, in die Bi
 {{<box title= "Über das alte Tramdepot">}} \
 Das “alte Tramdepot” war früher, wie der Name schon vorwegnimmt, ein Depot für Trams. Doch dieses Depot wurde 1941 stillgelegt und seitdem für viele verschiedene Zwecke genutzt. Es diente zum Beispiel als Depot für Bühnenbilder und Requisiten des Stadttheaters. \
 Schliesslich entschied man sich im Jahre 1994 dazu, das Tramdepot zu sanieren und es als gastronomischen und kulturellen Treffpunkt zu nutzen. Seitdem wurde es noch etliche Male umgebaut, um die Bierproduktion zu verbessern und das Lokal zu erweitern.\
-{{</box>}}
+{{<box>}}
 
 ### Die Führung
 
@@ -41,19 +41,19 @@ Nun steigen wir hinab in den Keller des Gebäudes und stehen vor einer breiten u
 
 An die Bar des Tramdepots gehen wir dann auch und wählen einen Tisch, der etwas abgelegen von den anderen Leuten steht, an dem wir das Interview durchführen. Nach dem Gespräch bedanken wir uns bei Matthias Koschahre dafür, dass er sich die Zeit genommen hat, um uns die Brauerei zu zeigen und unsere Fragen zu beantworten. Ein spannender und lehrreicher Besuch in der Brauerei “Altes Tramdepot” endet nun für uns. Wir haben viel Neues und Interessantes für unsere Reportage in Erfahrung gebracht.
 
-###### „Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“ 
+###### *„Also das Erste, was ich gemacht habe. Ich habe eine Wette gewonnen.“* 
 
 > Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
 
 {{<box title= "Über Matthias Koschare">}} \
 Matthias Koschahre, geboren 1983, ist der Leiter der Brauerei „Altes Tramdepot“ und das schon seit über vier Jahren. Er besitzt einen Instagram Account, auf dem er gelegentlich Posts macht, die meistens in Verbindung mit seinem Bier oder der Brauerei stehen.\
-{{</box>}}
+{{<box>}}
 
 # Das Interview mit Herrn Koschahre
 
 Nach der Führung setzen wir uns zusammen mit Herrn Koschahre an einen Tisch, um im Interview unsere Fragen an ihn zu richten. Wir stellen ihm einerseits Fragen, die interessant für uns sind und andererseits solche, die uns helfen, die Faszination hinter dem Bierbrauen zu verstehen. Denn das Brauen ist für viele Brauer nicht nur ein Beruf, sondern vielmehr eine Leidenschaft. 
 
-##### „Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “  
+##### *„Es ist für mich kein Beruf in der Art und Weise. Es ist mein Leben. “*  
 
 > Matthias Koschahre, Leiter der Brauerei „Altes Tramdepot“
 
